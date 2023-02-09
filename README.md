@@ -13,5 +13,5 @@ I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://www
 
 #### Contacts
 
-- 📧 [Email](villa1999nova@gmail.com)
-- 🌐 [Linkedin](www.linkedin.com/in/mateusvillanova/)
+- 📧 Email: villa1999nova@gmail.com
+- 🌐 Linkedin: www.linkedin.com/in/mateusvillanova/
