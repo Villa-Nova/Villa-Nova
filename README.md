@@ -18,7 +18,7 @@ const villa = {
     backEnd: [ Node, Express, SQL ],
     personal: {
                 game: "Assassin's Creed",
-                band: [ Skillet, Thousand Foot Krutch, Breaking Benjamin, Motionless In White, Evanescence, Bad Omens, Chase Atlantic ],
+                band: [ Skillet, Thousand Foot Krutch, Breaking Benjamin, Motionless In White, Evanescence, Chase Atlantic ],
                 music: "Fly On the Wall/Thousand Foot Krutch",
                 food: "Lasagna",
                 drink: "Coffee"
