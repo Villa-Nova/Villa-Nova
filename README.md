@@ -12,7 +12,7 @@
 <h2> A little more about me... </h2>
 
 ```javascript
-const villa = {
+let villa = {
     programming: [ Javascript, Typescript ],
     frontEnd: [ HTML, CSS, React, Next, Tailwind ],
     backEnd: [ Node, Express, SQL ],
