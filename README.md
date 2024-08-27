@@ -17,7 +17,7 @@ let villa = {
     frontEnd: [ HTML, CSS, React, Next, Tailwind ],
     backEnd: [ Node, Express, SQL ],
     personal: {
-                game: "Assassin's Creed",
+                game: [ "Assassin's Creed", "Valorant" ],
                 band: [ Skillet, Thousand Foot Krutch, Breaking Benjamin, Motionless In White, Evanescence, Chase Atlantic ],
                 music: "Fly On the Wall/Thousand Foot Krutch",
                 food: "Lasagna",
